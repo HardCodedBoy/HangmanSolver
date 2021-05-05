@@ -15,6 +15,8 @@ namespace HangmanSolver
 
             Console.WriteLine("Value of x is: " + x);
 
+            //A
+
             Console.ReadKey();
         }
     }
