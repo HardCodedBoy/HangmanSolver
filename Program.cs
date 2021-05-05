@@ -10,6 +10,12 @@ namespace HangmanSolver
     {
         static void Main(string[] args)
         {
+            //Editando
+            int x = 0;
+
+            Console.WriteLine("Value of x is: " + x);
+
+            Console.ReadKey();
         }
     }
 }
